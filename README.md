@@ -1,4 +1,4 @@
-# Simple terminal
+# st-config
 
 ## Patches:
 
